@@ -2,12 +2,12 @@
 ## Veremos Abaixo As Ferramentas 
 Foram Usadas As Seguintes Ferramentas para o Desenvolvimento da Atividade:  
 -
-- Download do Sistema Operacional linux
-- Configuração da máquina Virtual n o Virtual box
-- instalação do sistema operaciona na maquina criada
-- atualização do sistema operacional
-- instalação do Cockpit
-- instalação do Git
-- instalação do Gcc
-- Configuração de Portas no virtual box
-- Acesso via SSH no VScode
+- Download Do Sistema Operacional Linux
+- Configuração Da Máquina Virtual No Virtual Box
+- Instalação Do Sistema Operaciona Na Maquina Criada
+- Atualização Do Sistema Operacional
+- Instalação Do Cockpit
+- Instalação Do Git
+- Instalação Do Gcc
+- Configuração De Portas No VirtualBox
+- Acesso Via SSH No VScode

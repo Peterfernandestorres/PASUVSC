@@ -22,3 +22,11 @@ Foram Usadas As Seguintes Ferramentas para o Desenvolvimento da Atividade:
 <img src=logogit.png width=100 height=100>
 <img src=logovscode.png width=100 height=100>
 </p>
+
+### UBUNTU SERVER
+O Ubuntu Server é uma distribuição GNU/Linux que é mantida pela empresa canonical usando como base o código  fonte do sistema Debian. O Sistema tem foco em  servidores do mercado  corporativo. Existe no Brasil e no mundo uma grande demanda por profissionais que  estejam aptos a utilizar e administrar servidores Linux.
+
+para fazer o download do Ubuntu Server acesse o Link abaixo:
+<a href=https://ubuntu.com/download/server> Ubuntu server 22.04 </a>
+
+

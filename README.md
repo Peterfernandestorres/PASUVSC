@@ -14,8 +14,8 @@ Foram Usadas As Seguintes Ferramentas para o Desenvolvimento da Atividade:
 
 <p align=center>
 <img src=logoubuntu.png width=100 height=100>
-<img src=logocockpit.png width=100 height=100>
 <img src=logovirtualbox.png width=100 height=100>
+<img src=logocockpit.png width=100 height=100>
 <img src=logossh.png width=100 height=100>
 <img src=logolinguagemc.png width=100 height=100>
 
@@ -28,5 +28,12 @@ O Ubuntu Server é uma distribuição GNU/Linux que é mantida pela empresa cano
 
 para fazer o download do Ubuntu Server acesse o Link abaixo:
 <a href=https://ubuntu.com/download/server> Ubuntu server 22.04 </a>
+
+### VIRTUAL BOX
+VirtualBox é um software de virtualização de código aberto desenvolvido pela Oracle, que permite criar e executar máquinas virtuais em um computador físico.
+
+par fazer o Download do Virtual Box acesse o Link abaixo:
+<a href=https://www.virtualbox.org/wiki/Downloads> Virtual Box </a>
+
 
 
